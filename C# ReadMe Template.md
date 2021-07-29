@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Watson0117/TTA_Basic_CSharp_Projects">
-    <img src="images/C%23.png" alt="Logo" width="200" height="200">
+    <img src="images/CSharp.png" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">TTA_Basic_CSharp_Projects</h3>
   <p align="center">
